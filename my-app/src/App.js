@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/navbar';
+import Icon from './components/carticon';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code></code> and save to reload.
+          <code></code> Under construction
         </p>
         <a
           className="App-link"
